@@ -12,9 +12,9 @@ Download executable, or clone & run source using your favourite method.
 ### Example Input
 
 ```
-Seeded Duo Generator
+Seeded Team Generator
 ------------------------------------------------------------------------
-INFO: GENERATES SEEDED DUOS/GROUPS FROM LIST OF NAMES
+INFO: GENERATES SEEDED DUOS/TEAMS FROM LIST OF NAMES
 note: will create .txt file inside parent directory of python file
 ------------------------------------------------------------------------
 Enter seed: I enjoy long walks on the beach sometimes
@@ -34,7 +34,7 @@ Player 5:
 ### Output:
 
 ```
-Seeded Duo Generator by Ti1mmy
+Seeded Team Generator by Ti1mmy
 Source available on my GitHub: https://github.com/Ti1mmy/Seeded-Duo-Generator
 -------------------------------------------------------------------------------
 Seed: "I enjoy long walks on the beach sometimes"
