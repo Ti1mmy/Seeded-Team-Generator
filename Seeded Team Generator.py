@@ -1,7 +1,7 @@
 import random
-print('Seeded Duo Generator')
+print('Seeded Team Generator')
 print('------------------------------------------------------------------------')
-print('INFO: GENERATES SEEDED DUOS/GROUPS FROM LIST OF NAMES')
+print('INFO: GENERATES SEEDED DUOS/TEAMS FROM LIST OF NAMES')
 print('note: will create .txt file inside parent directory of python file')
 print('------------------------------------------------------------------------')
 seed = input('Enter seed: ')
@@ -34,11 +34,12 @@ else:
             people.remove(person)
         i += 1
     with open('Seeded Teams.txt', 'a', encoding='utf-8') as output:
-        output.write(f'Seeded Duo Generator\n')
-        output.write('------------------------------------------------------------------------\n')
-        output.write(f'Seed: {seed}\n')
+        output.write(f'Seeded Team Generator by Ti1mmy\n')
+        output.write(f'Source available on my GitHub: https://github.com/Ti1mmy/Seeded-Duo-Generator\n')
+        output.write('-------------------------------------------------------------------------------\n')
+        output.write(f'Seed: "{seed}"\n')
         output.write(f'Team Size: {team_size}\n')
-        output.write('------------------------------------------------------------------------\n')
+        output.write('-------------------------------------------------------------------------------\n')
         output.write('\nTeams:\n')
         k = 1
         for group in teams:

@@ -1,7 +1,7 @@
-# Seeded-Duo-Generator
-A seeded duo generator in Python 3!
+# Seeded-Team-Generator
+A seeded team generator in Python 3!
 
-Compiled executable can be found in [releases](https://github.com/Ti1mmy/Seeded-Duo-Generator/releases)!
+Compiled executable can be found in [releases](https://github.com/Ti1mmy/Seeded-Duo-Generator/releases).
 
 ## About
 Short script that will create a seeded list of teams from a set list of players. Useful for tournaments/picking teams for literally anything.
@@ -37,7 +37,7 @@ Player 5:
 Seeded Duo Generator by Ti1mmy
 Source available on my GitHub: https://github.com/Ti1mmy/Seeded-Duo-Generator
 -------------------------------------------------------------------------------
-Seed: I enjoy long walks on the beach sometimes
+Seed: "I enjoy long walks on the beach sometimes"
 Team Size: 2
 -------------------------------------------------------------------------------
 
