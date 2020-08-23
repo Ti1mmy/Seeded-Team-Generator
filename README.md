@@ -44,10 +44,11 @@ Team Size: 2
 Teams:
 
 Team 1:
+     - Bob
      - Jack
-     - Jill
 
 Team 2:
-     - Bob
+     - Jill
      - Joe
+
 ```

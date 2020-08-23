@@ -19,6 +19,7 @@ while True:
         break
     people.append(individual)
     number += 1
+people.sort()  # Addresses input order variation
 if len(people) < 2:
     print('Error: More players needed')
 elif not len(people) // team_size:
